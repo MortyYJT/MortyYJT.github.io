@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/10d9r602afjfu.js"
+3:"PreferencesProvider"
+4:I[55937,["$2"],"$3"]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+7:"/_next/static/chunks/1tdfmhfvzbwmj.js"
+8:I[29306,["$2","$7"],"default"]
+9:"PersistentPlayer"
+a:I[69697,["$2"],"$9"]
+b:I[19167,["$2"],"HelloIntro"]
+f:"/_next/static/chunks/20bsgbrvb-wqx.js"
+10:"/_next/static/chunks/0kfiyn7vg-ii9.js"
+11:I[7801,["$2","$f","$10"],"SiteShell"]
+12:I[17703,["$2","$f","$10"],"FriendsContent"]
+13:I[97367,["$2"],"OutletBoundary"]
+14:"$Sreact.suspense"
+16:"ViewportBoundary"
+17:I[97367,["$2"],"$16"]
+19:"MetadataBoundary"
+1a:I[97367,["$2"],"$19"]
+1c:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/0ceis1rl8r45s.css","style"]
+:HL["/_next/static/media/232f6dbd5605abc2-s.p.00hl4060vf5wp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/352704739d48caf4-s.p.3q05dvskj5spf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+d:X
+e:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L11",null,{"children":["$","$L12",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/20bsgbrvb-wqx.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0kfiyn7vg-ii9.js","async":true,"nonce":"$undefined"}]],["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":false,"v":null}}]]
+c:[["children",{"s":"friends","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$d"},"c":"$Qe"}]]
+0:{"P":null,"c":["","friends"],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ceis1rl8r45s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/10d9r602afjfu.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"ppF7LG_variable Udz7cG_variable","data-theme":"light","data-scroll-behavior":"smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{const p=JSON.parse(localStorage.getItem('guyuy:preferences:v1')||'null');document.documentElement.dataset.theme=p&&p.theme==='dark'?'dark':'light'}catch{document.documentElement.dataset.theme='light'}"}}]}],["$","body",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$La",null,{}],["$","$Lb",null,{}]]}]}]]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$L18"}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$14",null,{"name":"Next.Metadata","children":"$L1b"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1c",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ceis1rl8r45s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"RLgoOBCNRIXYW9DpGD2LD"}
+d:C
+18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1d:I[27201,["$2"],"IconMark"]
+15:null
+1b:[["$","title","0",{"children":"Friends / 友链 · MortyYJT"}],["$","meta","1",{"name":"description","content":"谷鱼Y / MortyYJT 的个人主页，记录项目实践与持续探索。"}],["$","link","2",{"rel":"author","href":"https://github.com/MortyYJT"}],["$","meta","3",{"name":"author","content":"MortyYJT"}],["$","link","4",{"rel":"canonical","href":"https://mortyyjt.github.io/friends"}],["$","meta","5",{"property":"og:title","content":"谷鱼Y · MortyYJT"}],["$","meta","6",{"property":"og:description","content":"Projects, learning, and an ongoing exploration."}],["$","meta","7",{"property":"og:url","content":"https://mortyyjt.github.io/friends"}],["$","meta","8",{"property":"og:site_name","content":"MortyYJT"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary"}],["$","meta","11",{"name":"twitter:title","content":"谷鱼Y · MortyYJT"}],["$","meta","12",{"name":"twitter:description","content":"Projects, learning, and an ongoing exploration."}],["$","link","13",{"rel":"icon","href":"/icon.svg?icon.0m6xfxtjwaonj.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1d","14",{}]]

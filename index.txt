@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/10d9r602afjfu.js"
+3:"PreferencesProvider"
+4:I[55937,["$2"],"$3"]
+5:I[39756,["$2"],"default"]
+6:I[37457,["$2"],"default"]
+7:"/_next/static/chunks/1tdfmhfvzbwmj.js"
+8:I[29306,["$2","$7"],"default"]
+9:"PersistentPlayer"
+a:I[69697,["$2"],"$9"]
+b:I[19167,["$2"],"HelloIntro"]
+d:"/_next/static/chunks/1g3e85pu18vxe.js"
+e:I[7801,["$2","$d"],"SiteShell"]
+f:I[61046,["$2","$d"],"HiCard"]
+10:I[49906,["$2","$d"],"NavCard"]
+11:I[51109,["$2","$d"],"ProjectCard"]
+12:I[24898,["$2","$d"],"ArtCard"]
+13:I[86044,["$2","$d"],"ClockCard"]
+14:I[82307,["$2","$d"],"CalendarCard"]
+15:I[54356,["$2","$d"],"SocialCard"]
+16:I[97367,["$2"],"OutletBoundary"]
+17:"$Sreact.suspense"
+19:"ViewportBoundary"
+1a:I[97367,["$2"],"$19"]
+1c:"MetadataBoundary"
+1d:I[97367,["$2"],"$1c"]
+1f:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/0ceis1rl8r45s.css","style"]
+:HL["/_next/static/media/232f6dbd5605abc2-s.p.00hl4060vf5wp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/352704739d48caf4-s.p.3q05dvskj5spf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+c:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$Le",null,{"home":true,"children":["$","div",null,{"className":"bento","children":[["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}],["$","section",null,{"className":"card card-music ","style":{"--order":8},"aria-label":"$undefined","children":["$","div",null,{"className":"player-slot","data-player-slot":true}]}],["$","$L12",null,{}],["$","$L13",null,{}],["$","$L14",null,{}],["$","$L15",null,{}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/1g3e85pu18vxe.js","async":true,"nonce":"$undefined"}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":false,"v":null}}]]
+0:{"P":null,"c":["",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ceis1rl8r45s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/10d9r602afjfu.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","className":"ppF7LG_variable Udz7cG_variable","data-theme":"light","data-scroll-behavior":"smooth","suppressHydrationWarning":true,"children":[["$","head",null,{"children":["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{const p=JSON.parse(localStorage.getItem('guyuy:preferences:v1')||'null');document.documentElement.dataset.theme=p&&p.theme==='dark'?'dark':'light'}catch{document.documentElement.dataset.theme='light'}"}}]}],["$","body",null,{"children":["$","$L4",null,{"children":[["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L8",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","$La",null,{}],["$","$Lb",null,{}]]}]}]]}]]}],"p":false,"v":null},"c":"$Qc"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1a",null,{"children":"$L1b"}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":"$L1e"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$1f",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0ceis1rl8r45s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"RLgoOBCNRIXYW9DpGD2LD"}
+1b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+20:I[27201,["$2"],"IconMark"]
+18:null
+1e:[["$","title","0",{"children":"谷鱼Y · MortyYJT"}],["$","meta","1",{"name":"description","content":"谷鱼Y / MortyYJT 的个人主页，记录项目实践与持续探索。"}],["$","link","2",{"rel":"author","href":"https://github.com/MortyYJT"}],["$","meta","3",{"name":"author","content":"MortyYJT"}],["$","link","4",{"rel":"canonical","href":"https://mortyyjt.github.io"}],["$","meta","5",{"property":"og:title","content":"谷鱼Y · MortyYJT"}],["$","meta","6",{"property":"og:description","content":"Projects, learning, and an ongoing exploration."}],["$","meta","7",{"property":"og:url","content":"https://mortyyjt.github.io"}],["$","meta","8",{"property":"og:site_name","content":"MortyYJT"}],["$","meta","9",{"property":"og:type","content":"website"}],["$","meta","10",{"name":"twitter:card","content":"summary"}],["$","meta","11",{"name":"twitter:title","content":"谷鱼Y · MortyYJT"}],["$","meta","12",{"name":"twitter:description","content":"Projects, learning, and an ongoing exploration."}],["$","link","13",{"rel":"icon","href":"/icon.svg?icon.0m6xfxtjwaonj.svg","sizes":"any","type":"image/svg+xml"}],["$","$L20","14",{}]]
